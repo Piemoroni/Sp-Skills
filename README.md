@@ -6,7 +6,7 @@ Este repositório contém instruções para iniciar um projeto backend em Node.j
 
 ### 1-) Inicializar o projeto
 
--npm init -y
+-npm init 
 
 ### 2-) Instalar dependências essenciais
 
